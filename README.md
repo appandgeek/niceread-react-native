@@ -1,1 +1,0 @@
-# Niceread-react-native
